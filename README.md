@@ -63,4 +63,4 @@ remotely
 -- git push -delete origin v1.7
 
 10- adding image
-
+![Alt text](Rectangle 22xx.png)
