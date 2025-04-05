@@ -47,4 +47,20 @@ git revert with sha1
 -- git checkout -b newBranch
 -- git stash apply
 
-6- 
+6- adding tag
+-- git tag -a v1.7 -m "adding tag"
+
+7- push it to remote
+-- git push origin v1.7
+
+8- list tags
+-- git tags
+
+9- delete tag locally and manually
+locally
+-- git tag -D v1.7
+remotely
+-- git push -delete origin v1.7
+
+10- adding image
+
