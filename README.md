@@ -64,3 +64,5 @@ remotely
 
 10- adding image
 -- ![Logo](Rectangle.png)
+
+by using ![Logo]Rectangle.png
